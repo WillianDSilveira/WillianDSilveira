@@ -9,6 +9,8 @@ Sou estudante de Análise e desenvolvimento de sistemas, aqui você irá encontr
 
 ### Meu Portfólio 👇
 [![Blog](https://img.shields.io/website?label=williandalferth.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://williandalferth.netlify.app/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-dalferth-da-silveira/)
+
 
 ---
 
